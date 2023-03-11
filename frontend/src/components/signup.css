@@ -1,0 +1,50 @@
+.first-div{
+   text-align: center;
+   padding: 35px;
+   line-height: 2rem;
+}
+.third-box{
+   
+   width: 62vh;
+}
+.third-div{
+   padding: 20px;
+   line-height: 2rem;
+   text-align: center;
+}
+.fourth-div{
+   text-align: center;
+   /* padding: 5px; */
+}
+.fifth-div{
+   text-align: center;
+   padding: 20px;
+}
+.second-div{
+   border-radius: 2px solid grey;
+   /* text-align: center; */
+   display: flex; 
+   justify-content:space-around;
+   margin-top: 20px;
+       
+}
+.main-class{
+   margin: auto;
+   border: 2px solid gray;
+   height: 100vh;
+   width: 80vh;
+}
+/* .third-div{ */
+   /* text-align: center; */
+   /* line-height: 20px; */
+/*     */
+/* } */
+.fourth-box{
+   width: 62vh;
+}
+.check{
+   text-align: center;
+}
+.image-logo{
+   height: 100px;
+}
